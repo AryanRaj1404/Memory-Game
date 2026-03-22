@@ -18,7 +18,7 @@ class Main{
 
         String[] board = new String[cards.size()];
         Arrays.fill(board, " ");
-
+        
         //try code
         // for(String s: board){
         //     System.out.println(s);
